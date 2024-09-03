@@ -2,7 +2,7 @@
 Esse projeto é uma aplicação simples de gerenciamento de biblioteca desenvolvida em Python. O sistema permite que usuários cadastrem, busquem, emprestem e devolvam livros, além de visualizar o catálogo completo disponível na biblioteca. O código foi modularizado, facilitando a manutenção e a escalabilidade da aplicação. 
 
  ### Objetivo
- O projeto em questão foi desenvolvido a fim de aperfeiçoar meus conhecimentos na linguagem e desenvolver pela primeira vez um projeto que envolvesse módulos e pacotes.
+ O projeto em questão foi desenvolvido a fim de aperfeiçoar meus conhecimentos na linguagem e desenvolver pela primeira vez um projeto que envolvesse modularização.
 
  ### Funcionalidades
    - O código adiciona novos livros ao sistema com informações como nome, autor e ano de publicação.
